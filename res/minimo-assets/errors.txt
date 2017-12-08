@@ -1,0 +1,2 @@
+[12/6/2017, 8:08:21 PM] layer "g+": Expected end of input but "+" found.
+[12/6/2017, 8:08:20 PM] layer "g+": Expected end of input but "+" found.
